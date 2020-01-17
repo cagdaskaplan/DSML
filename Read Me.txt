@@ -1,10 +1,10 @@
 Hi :)
 
-a)lenet_weight saving for each batch.py helps  saving weights for each batch of a LENEt from MNIST dataset.You shoul increade 
+a)lenet_weight saving for each batch.py helps  saving weights for each batch of a LENET from MNIST dataset.You shoul increase 
 epoch number to have a stabilization of weigth values
 
-b)plotting 3 weights from a csv.py helps plotting  3 weigths alteration.
-You should combine h5 files with listing usign glob(clue) function also for creating a csv file.
+b)Plotting 3 weights from a csv.py helps plotting 3 weights alteration.
+You should combine h5 files with listing using glob(clue) function also for creating a csv file.
 
 c) After that you can compare with Prophet functions.
 

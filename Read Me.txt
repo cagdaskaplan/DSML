@@ -1,7 +1,7 @@
 Hi :)
 
 a)lenet_weight saving for each batch.py helps  saving weights for each batch of a LENET from MNIST dataset.You shoul increase 
-epoch number to have a stabilization of weigth values
+epoch number to have a stabilization of weight values
 
 b)Plotting 3 weights from a csv.py helps plotting 3 weights alteration.
 You should combine h5 files with listing using glob(clue) function also for creating a csv file.

@@ -1,6 +1,6 @@
 Hi :)
 
-a)lenet_weight saving for each batch.py helps  saving weights for each batch of a LENET from MNIST dataset.You shoul increase 
+a)lenet_weight saving for each batch.py helps  saving weights for each batch of a LENET from MNIST dataset.You should increase 
 epoch number to have a stabilization of weight values
 
 b)Plotting 3 weights from a csv.py helps plotting 3 weights alteration.
